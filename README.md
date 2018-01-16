@@ -139,10 +139,10 @@ Schedule
 We first started with a 1 hour sprint to put our ideas together, we began brainstorming ideas of what the main gameplay of the game would be. We decided to go with an item finding game where the user would have to find certain items in environments, which would give the user information based on each item (how greenhouse gases are created by the item etc.). We also decided on a main menu where the user would be able to decide which environment they would be using (this would depend on the environment table they are at in the ZSL session). We then spent the rest of the week fine tuning this idea and creating concepts of how the app interface would look. In our second sprint on the 5th we then decided on the aesthetic of the app, we decided upon using a comic book style as we felt that would be appealing for the children using the app.
 
 Tasks for 9th-15th
-•	design App pitch presentation (Luke) 
+•	design App pitch presentation (Luke S.) 
 •	Create storyboard of app (Joe and Matthew)
 •	Start Product Backlog and design flow chart(Sam)
-•	Design concept art (Luke)
+•	Design concept art (Luke B.)
 
 #### Monday 16th sprint 1
 
@@ -187,6 +187,9 @@ This week’s sprints first started with our group meeting and discussing what w
 | Figure out how to get the app up on the  Ipad |   Joe and Luke shead   |   5 Days    |      Yes       |
 | Test all aspects of the app| All Members  |   5 Days | Yes |                        
 | Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
-|Combine all sections of the app, when all sections are done | 2 hours | Yes|
+|Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
 
+#### Project Evaluation
+The project was more or less a huge challenge to complete, however has not cemented full approval of the client dispite the positive feedback. The project presented has gone through many changes during development, which comes down to many factors, time was being a main factor. Other factors included within the development of this application was presentation; would the app fit the clients demonstration.
 
+Based on the original design documentation, the original app was designed to be an interactive comic book with a superhero protagonist, where the user (being the school pupil) had the choice between a hero and heroine and choosing between 4 habitats to save. A storyline was also considered; a villian called the climate Menace was polluting the Earth and the superhero along with the user must help to destroy him. Cutscenes were layed out inbetween the interactive parts, detailing how the Climate Menace was destroying parts of a certain habitat along with facts surrounding greenhouse gases and pollution that surrounded said habitat, which were part of the dialogue between the two characters.
