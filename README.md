@@ -189,7 +189,11 @@ This week’s sprints first started with our group meeting and discussing what w
 | Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
 |Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
 
-#### Project Evaluation
+### Team Dynamics
+
+### Role and Contribution
+
+### Project Evaluation
 The project was more or less a huge challenge to complete, however has not cemented full approval of the client dispite the positive feedback. The project presented has gone through many changes during development, which comes down to many factors, time was being a main factor. Other factors included within the development of this application was presentation; would the app fit the clients demonstration.
 
 Based on the original design documentation, the original app was designed to be an interactive comic book with a superhero protagonist, where the user (being the school pupil) had the choice between a hero and heroine and choosing between 4 habitats to save. A storyline was also considered; a villian called the climate Menace was polluting the Earth and the superhero along with the user must help to destroy him. Cutscenes were layed out inbetween the interactive parts, detailing how the Climate Menace was destroying parts of a certain habitat along with facts surrounding greenhouse gases and pollution that surrounded said habitat, which were part of the dialogue between the two characters.
