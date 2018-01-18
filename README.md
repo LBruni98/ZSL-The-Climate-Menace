@@ -189,6 +189,8 @@ This week’s sprints first started with our group meeting and discussing what w
 | Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
 |Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
 
+### Motivational Theories
+
 ### Team Dynamics
 
 ### Role and Contribution
