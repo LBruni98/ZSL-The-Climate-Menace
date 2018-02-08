@@ -199,8 +199,39 @@ This week’s sprints first started with our group meeting and discussing what w
 |Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
 
 ### Motivational Theories
+#### Hierarcy of Needs
+The Hierarcy of Needs methodology is a motivational theory comprimising five levels of the human needs. This is often dipicted as a five layer hirarcal pyramid and is divided into deficiency and growth needs:
+
+1. Physiological – these needs must be met in order for a person to survive, such as food, water and shelter.
+2. Safety – including personal and financial security and health and wellbeing.
+3. Love/belonging – the need for friendships, relationships and family.
+4. Esteem – the need to feel confident and be respected by others.
+5. Self-actualisation – the desire to achieve everything you possibly can and become the most that you can be.
+
+The theory states that you must be in good health, safe and secure with meaningful relationships and confidence before you are at your very best.
+
+#### Two-Factor Theory
+The Two-Factor Theory or Dual-Factor theory, developed in the 1950s by psychologist Frederick Herzberg, states that there are certain factors that influence job satisfaction and job dissatisfaction.
+
+1. Motivator factors – Simply put, these are factors that lead to satisfaction and motivate employees to work harder. Examples might include enjoying your work, feeling recognised and career progression.
+2. Hygiene factors – These factors can lead to dissatisfaction and a lack of motivation if they are absent. Examples include salary, company policies, benefits, relationships with managers and co-workers.
+
+It is also noted that these factors work independantly to each other, where the motivator factors increased satisfaction while present and the hygiene factors increased satisfaction when absent.
+
+#### Comparison of the two theories
+The relations and differences of these two theroies are essentially based on what drives them; both are somewhat similar with how they are percieved, where both require needs to gain motivation. To have the user work to their absolute best, they would essiently need motivators to gain motivation and would have to be given from others, with appreciation and support to make them work to the best.
+
+The differences come from their needs entirely. The Two-factor theory basically states the needs of the person is what motivates them, what forces them to drive the person to work more from their work, whereas the Hierarcy of Needs theory is based on human needs, with the five levels of needs that the person should have to be motivated at their very best, A general idea of needs that the theory states.
+
+What the Hierarcy doesn't state within its theory are what factors the worker has which reinforces motivation unlike the two-factor theory, where the needs of the worker reinforces a positive attitude towards their work. The two factor delves into the point where the the worker could be dissatisfied if these factors are lost.
+
+In the ZSL project, feedback and support from fellow members proved to be a greater work force, exactly where the theories above correlate with this project. The idea of our needs to help support us was present within the development of our project and with its absence, proved to make an impact on the project. As it was our first proper project with a real client, I felt like the team was starting to be recognised; a need that would get us to work harder and this altered the way we saw the project in a more positive light. A level from the Hierarcy of Needs was also incorporated into our working, suitably the top most level, where we strived for a good outcome and felt that we have worked beyond our capabilities to provide our client with the application.
+
+##### Reference
+Mark (2014). 5 Psychological Theories of Motivation to Increase Productivity. [online]. Contactzilla. Available from: <https://contactzilla.com/blog/5-psychological-theories-motivation-increase-productivity/>. [Accessed 8 February 2018].
 
 ### Team Dynamics
+
 
 ### Role and Contribution
 In the project, I was mainly on the visual aspect, working alongside that of another member with the graphics but mainly responsible for the overall visual style of the application. The team wanted something along the lines of a comic book style to go along with the original idea of the application, to which I proposed a realistic-comic hybrid style that the team agreed with, where the idea would be to take real images and incorporate the visual style into them. The lack of communication was a problem, until meeting up with the team again, the visual aspect had to be reworked to fit in with my intended style, however, time could of been given for the other members if I had given my progress to them through messaging and emails. It wasn't all negative however, as my design still made it into the final application.
