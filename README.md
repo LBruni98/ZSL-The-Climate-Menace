@@ -198,6 +198,15 @@ This week’s sprints first started with our group meeting and discussing what w
 | Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
 |Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
 
+## Evaluation
+### Techniques used in the design and delivery
+* Breaking down a problem/decomposition - Understanding the problem and breaking it down into individual tasks or aims by going from the best ideas from members of the team.
+
+* Trial and error - Working with different ideas and methods and continue through thick and thin until a more desired solution is met.
+
+* Teamwork and communication - Working within a team to achieve a set goal, along with communicating with others about the task at hand or offering suggestions to aid the development.
+
+
 ### Motivational Theories
 #### Hierarcy of Needs
 The Hierarcy of Needs methodology is a motivational theory comprimising five levels of the human needs. This is often dipicted as a five layer hirarcal pyramid and is divided into deficiency and growth needs:
