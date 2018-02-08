@@ -206,6 +206,8 @@ This week’s sprints first started with our group meeting and discussing what w
 
 * Teamwork and communication - Working within a team to achieve a set goal, along with communicating with others about the task at hand or offering suggestions to aid the development.
 
+##### References
+Exforsys (2006). The Use of Trial and Error To Solve Problems. [online]. Exforsys Inc.. Available from: <http://www.exforsys.com/career-center/problem-solving/the-use-of-trial-and-error-to-solve-problems.html>. [Accessed 8 February 2018].
 
 ### Motivational Theories
 #### Hierarcy of Needs
