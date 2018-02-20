@@ -207,7 +207,7 @@ This week’s sprints first started with our group meeting and discussing what w
 * Teamwork and communication - Working within a team to achieve a set goal, along with communicating with others about the task at hand or offering suggestions to aid the development.
 
 ##### References
-Exforsys (2006). The Use of Trial and Error To Solve Problems. [online]. Exforsys Inc.. Available from: <http://www.exforsys.com/career-center/problem-solving/the-use-of-trial-and-error-to-solve-problems.html>. [Accessed 8 February 2018].
+1. Exforsys (2006). The Use of Trial and Error To Solve Problems. [online]. Exforsys Inc.. Available from: <http://www.exforsys.com/career-center/problem-solving/the-use-of-trial-and-error-to-solve-problems.html>. [Accessed 8 February 2018].
 
 ### Motivational Theories
 #### Hierarcy of Needs
@@ -219,7 +219,7 @@ The Hierarcy of Needs methodology is a motivational theory comprimising five lev
 4. Esteem – the need to feel confident and be respected by others.
 5. Self-actualisation – the desire to achieve everything you possibly can and become the most that you can be.
 
-The theory states that you must be in good health, safe and secure with meaningful relationships and confidence before you are at your very best.
+The theory states that you must be in good health, safe and secure with meaningful relationships and confidence before you are at your very best [2].
 
 #### Two-Factor Theory
 The Two-Factor Theory or Dual-Factor theory, developed in the 1950s by psychologist Frederick Herzberg, states that there are certain factors that influence job satisfaction and job dissatisfaction.
@@ -239,7 +239,8 @@ What the Hierarcy doesn't state within its theory are what factors the worker ha
 In the ZSL project, feedback and support from fellow members proved to be a greater work force, exactly where the theories above correlate with this project. The idea of our needs to help support us was present within the development of our project and with its absence, proved to make an impact on the project. As it was our first proper project with a real client, I felt like the team was starting to be recognised; a need that would get us to work harder and this altered the way we saw the project in a more positive light. A level from the Hierarcy of Needs was also incorporated into our working, suitably the top most level, where we strived for a good outcome and felt that we have worked beyond our capabilities to provide our client with the application.
 
 ##### Reference
-Mark (2014). 5 Psychological Theories of Motivation to Increase Productivity. [online]. Contactzilla. Available from: <https://contactzilla.com/blog/5-psychological-theories-motivation-increase-productivity/>. [Accessed 8 February 2018].
+1. Mark (2014). 5 Psychological Theories of Motivation to Increase Productivity. [online]. Contactzilla. Available from: <https://contactzilla.com/blog/5-psychological-theories-motivation-increase-productivity/>. [Accessed 8 February 2018].
+2. Saul McLeod (2017). Maslow's Hierarchy of Needs. [online]. SimplyPsychology. Available from: <https://www.simplypsychology.org/maslow.html>. [Accessed 20 February 2018].
 
 ### Team Dynamics
 
