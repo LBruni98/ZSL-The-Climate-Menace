@@ -45,6 +45,16 @@ On parts of the ZSL project, there were meetings on the project to show what the
 
 The aim is to produce a game which suits the client’s requirements, creating an educational application that is informative, engaging and interactive based on the proposed or pre-set subject (In this instance; Greenhouse gases, production, Manufacturing and the impact of said gases and manufacturing or production phases on the environment in addition to the influence on climate change). 
 
+#### Menu and Game A.I
+
+The project app had its age group towards 11-16 with more emphasis towards the KS3 pupils, so the design we figured called for something that was cartoony and bright, mainly to appeal to said younger audience, but was more modern and reflects on the image of ZSL, which should appeal more to the older KS4, if not the public. The design we figured would work would be a more comic book style, which should appeal to the audience. Other elements would also reflect the image of ZSL but wouldn’t obstruct the original aesthetic of the app.
+
+The menu would be fairly easy to look at and simple to use. The bright vivid colours and the comic book style in the background (The landscapes in the picture are evident of the style) help with the overall design and should appeal to the younger audience, eye catching and not at all dull. The menu elements reflect on more modern designs and generally makes that app appear neater, but as stated, doesn’t interrupt the comic book style design. The greenhouse gas meter would be present mostly and will change based on pupils’ choices of greenhouse reduction, with the lock allowing them to access the “Reduction constructor” and the pledges page once a section has been completed.
+
+![HUD](https://github.com/LBruni98/ZSL-The-Climate-Menace/blob/master/Game%20HUD%20Mockup.png)
+
+This shows the game’s UI, again using the design mentioned above. The user would have to try to find all 12 of the carbon emissions or “Hazards” in 5 minutes. Once the “Hazard” is found and selected, it will stand out from the rest of the elements and information will appear, giving a brief explanation of how the “Hazard” is contributing to carbon and greenhouse emissions or other factors of climate change and may impact on the greenhouse gas meter at the top. The elements will be hidden specifically to be enjoyable to the user and not at all too challenging.
+
 ### Story 
 
 The story relates to the green house gases and chain, of the production and manufacturing proccess of four products to four habitats. The user is presented with the production and manufacutring proccess or segments of the green house gas chain and are then responsible or asked to recreate the chain after viewing the proccess once. Moreover once the chain is completed the user is then presented with what could be done to help alleviate the problem or rate at which green house gases are emmitted, which links in to the pledges the user is then shown and asked to pick at least one pledge to enact in their daily lives.
