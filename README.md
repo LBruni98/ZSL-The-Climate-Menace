@@ -2,6 +2,7 @@
 
 ## Table of contents
 
+```
 1. Design History
 2. Game Overview
   2.1 Introduction
@@ -40,7 +41,8 @@
   5.5 Role and Contribution
   5.6 Project Evaluation
   5.7 Process to Give Critical Reasoning
-  
+```
+
 ## 1. Design History
 Version 1.0
 
