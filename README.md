@@ -60,7 +60,6 @@ In the application all areas will be unlocked automatically to give the user a c
 
 ![Game Menu](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Mockup%20App%20Menu.png)
 
-
 Furthermore the graphic styles within the enviroments and menu will be consistent throughout, though what is represented within each area and the colour palette will change so that differentiation may be made for the 4 different areas (Tundra, Rain Forest, British countryside and the Ocean).
 
 Once an area or habitat has been clicked on a comic strip will be shown spanning one to two scenes (pages) showing the manufacturing and production proccess of a product relevant to that enviroment. Moreover after the comic strips have faded the game screen will appear with an empty chain and numerous draggable images, which need to be put by a user in a specific order. 
@@ -132,19 +131,19 @@ ZSL has given us the task of creating a web based application for children aged 
 
 ### Schedule
 
--Monday 2nd-Sunday 8th: Create Idea for project
+-Monday 2nd October -Sunday 8th October: Create Idea for project
 
--Monday 9th- Sunday 15th: Create Pitch for project 
+-Monday 9th October - Sunday 15th October: Create Pitch for project 
 
 -Monday 16th October: First Review
 
--Monday 16th- Sunday 29th: Develop demo for app and design product design document
+-Monday 16th October - Sunday October 29th: Develop demo for app and design product design document
 
 -Monday 30th October: Second Review
 
 -Tuesday 7th November: Final Presentation
 
-#### Monday 2nd- 8th
+#### Monday 2nd October - 8th October
 We first started with a 1 hour sprint to put our ideas together, we began brainstorming ideas of what the main gameplay of the game would be. We decided to go with an item finding game where the user would have to find certain items in environments, which would give the user information based on each item (how greenhouse gases are created by the item etc.). We also decided on a main menu where the user would be able to decide which environment they would be using (this would depend on the environment table they are at in the ZSL session). We then spent the rest of the week fine tuning this idea and creating concepts of how the app interface would look. In our second sprint on the 5th we then decided on the aesthetic of the app, we decided upon using a comic book style as we felt that would be appealing for the children using the app.
 
 Tasks for 9th-15th
@@ -153,7 +152,7 @@ Tasks for 9th-15th
 •	Start Product Backlog and design flow chart(Sam)
 •	Design concept art (Luke)
 
-#### Monday 17th sprint 1
+#### Monday 17th October sprint 1
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
@@ -164,7 +163,7 @@ Tasks for 9th-15th
 | Create a full list of features and how it relates to clients requirements |  Luke Shead  |   45 minutes | Yes |                        | Compile, create and practice concept pitch  |   Whole Group |      1 hour    |  Yes    |
 
 
-#### Monday 17th Sprint 2
+#### Monday 17th October Sprint 2
 
 
 
