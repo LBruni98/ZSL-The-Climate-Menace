@@ -199,6 +199,9 @@ This week’s sprints first started with our group meeting and discussing what w
 |Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
 
 ## Evaluation
+### How User and Software Requirements Have Been Addressed
+
+
 ### Techniques used in the design and delivery
 * Breaking down a problem/decomposition - Understanding the problem and breaking it down into individual tasks or aims by going from the best ideas from members of the team.
 
