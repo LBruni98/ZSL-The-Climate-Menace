@@ -51,23 +51,23 @@ Produced by Matthew Sides, Sam Dearing, Luke Bruni, Luke Shead and Joe William
 
 01/11/2017
 
-## 2. Game Overview
+## 2. Management
 
 ### 2.1 Introduction
 
 This document specifies a design for the conceptual features and mechanics (gameplay) of a game with the provisional title “GreenHouse Menace”, commissioned by the Zoological Society of London. It is based on elements discussed in various meetings, held since 2nd October, between cliental (ZSL) and group members involving Matthew, Sam, Joe, Luke and Luke.
 
-## 3. Specification
-
-### 3.1 Scope
+### 2.2 Scope
 
 This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and inteactive, ZSL required these for the app to be successful.
 
-### 3.2 Cost
+### 2.3 Cost
 
 The development will be carried out on PC so no license will be required whatsoever. Unity Pro, the game engine that the app will be developed on, costs £125 a month and over a 2 month period, bringing the cost to £250.
 
-### 3.3 The Planning
+### 2.4 Resources
+
+### 2.4 The Planning
 
 In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. We met on serveral occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we where able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we where able to use that for improvement to the app.
 
@@ -75,7 +75,7 @@ Before meetings there where some issues with the powerpoint presentation as it h
 
 After meeting we made sure to cover all of the risks and problems that we could encounter on the project. For example if someone was to have issues with a certain part of building the program, would there be help from the team and if so, was there flexability within the group to help. We took these risk into consideration and tried to make technical solutions to each of them. With us doing this it meant that most of the risks that could have been prevented were, this process saved much time and recources and allowed us to use our time much more effectively in the project.
 
-### 3.4 Feedback
+### 2.5 Feedback
 
 On parts of the ZSL project, there were meetings on the project to show what the app was looking like and if it was going in the right direction of what they wanted. The feedback that our group got on the first pitch was very eye-opening as it showed us that we had been going in a wrong direction with our app. The feedback that we got that our app was not informative enough and interactive sides of it were lacking allowed us to look back at our app and make changes to the app to fit the clients needs. This included changing the interactive side of it completely as well as adding in more parts to make it more informational.
 
