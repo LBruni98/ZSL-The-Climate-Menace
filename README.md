@@ -67,6 +67,9 @@ The development will be carried out on PC so no license will be required whatsoe
 
 ### 2.4 Resources
 
+### 2.5 Quality
+
+
 ### 2.4 The Planning
 
 In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. We met on serveral occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we where able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we where able to use that for improvement to the app.
