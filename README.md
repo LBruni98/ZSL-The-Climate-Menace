@@ -10,18 +10,17 @@
   3.1 Scope
   3.2 The Planning
   3.3 Cost
-  3.4 User Stories
-  3.5 Feedback
-  3.6 Concept
-    3.6.1 Menu and Game A.I
-  3.7 Story
-  3.8 Setting
-  3.9 Application Structure
-  3.10 Players | Platform
-  3.11 Genre
-  3.12 Intended Audience
-  3.13 Sound Consideration
-  3.14 Language
+  3.4 Feedback
+  3.5 Concept
+    3.5.1 Menu and Game A.I
+  3.6 Story
+  3.7 Setting
+  3.8 Application Structure
+  3.9 Players | Platform
+  3.10 Genre
+  3.11 Intended Audience
+  3.12 Sound Consideration
+  3.13 Language
 4. Game Mechanics | In-Game Elements
   4.1 Camera
   4.2 General Movement
@@ -76,28 +75,15 @@ Before meetings there where some issues with the powerpoint presentation as it h
 
 After meeting we made sure to cover all of the risks and problems that we could encounter on the project. For example if someone was to have issues with a certain part of building the program, would there be help from the team and if so, was there flexability within the group to help. We took these risk into consideration and tried to make technical solutions to each of them. With us doing this it meant that most of the risks that could have been prevented were, this process saved much time and recources and allowed us to use our time much more effectively in the project.
 
-### 3.4 User Stories
-#### 3.4.1 Addressing Requirements in Development
-When a development methodology has been declared, structuring the work is then the issue. Within Agile Development, the work is divided into four sections to bring the structure of the project. The structure is this:
-
-* Epic - The large body of work and mainly the main objective. Within this are stories.
-* Stories - Small work units or tasks that are done to make up the epic.
-* Version - The release of the software
-* Sprint - The iteration where the team then come together to work.
-
-Using these sections helps break down the requirements and lays them out into workable parts for the software teams. In addition, it can help with prioitzing customer feedback and can change the plan around without having a negative impact.
-
-Epics are the larger bodies that the stories are contained in and make up. Versions are made from different epics being a point in time to where the software is released. These can change over the course of the project being part of agile development and are created through the development and feedback, where the user stories are added, changed or removed to optimize a the release time.
-
-### 3.5 Feedback
+### 3.4 Feedback
 
 On parts of the ZSL project, there were meetings on the project to show what the app was looking like and if it was going in the right direction of what they wanted. The feedback that our group got on the first pitch was very eye-opening as it showed us that we had been going in a wrong direction with our app. The feedback that we got that our app was not informative enough and interactive sides of it were lacking allowed us to look back at our app and make changes to the app to fit the clients needs. This included changing the interactive side of it completely as well as adding in more parts to make it more informational.
 
-### 3.6 Concept
+### 3.5 Concept
 
 The aim is to produce a game which suits the client’s requirements, creating an educational application that is informative, engaging and interactive based on the proposed or pre-set subject (In this instance; Greenhouse gases, production, Manufacturing and the impact of said gases and manufacturing or production phases on the environment in addition to the influence on climate change). 
 
-#### 3.6.1 Menu and Game A.I
+#### 3.5.1 Menu and Game A.I
 
 The project app had its age group towards 11-16 with more emphasis towards the KS3 pupils, so the design we figured called for something that was cartoony and bright, mainly to appeal to said younger audience, but was more modern and reflects on the image of ZSL, which should appeal more to the older KS4, if not the public. The design we figured would work would be a more comic book style, which should appeal to the audience. Other elements would also reflect the image of ZSL but wouldn’t obstruct the original aesthetic of the app.
 
@@ -107,15 +93,15 @@ The menu would be fairly easy to look at and simple to use. The bright vivid col
 
 This shows the game’s UI, again using the design mentioned above. The user would have to try to find all 12 of the carbon emissions or “Hazards” in 5 minutes. Once the “Hazard” is found and selected, it will stand out from the rest of the elements and information will appear, giving a brief explanation of how the “Hazard” is contributing to carbon and greenhouse emissions or other factors of climate change and may impact on the greenhouse gas meter at the top. The elements will be hidden specifically to be enjoyable to the user and not at all too challenging.
 
-### 3.7 Story 
+### 3.6 Story 
 
 The story relates to the green house gases and chain, of the production and manufacturing proccess of four products to four habitats. The user is presented with the production and manufacutring proccess or segments of the green house gas chain and are then responsible or asked to recreate the chain after viewing the proccess once. Moreover once the chain is completed the user is then presented with what could be done to help alleviate the problem or rate at which green house gases are emmitted, which links in to the pledges the user is then shown and asked to pick at least one pledge to enact in their daily lives.
 
-### 3.8 Setting
+### 3.7 Setting
 
 This game will be set in the present/modern day. 
 
-### 3.9 Application Structure
+### 3.8 Application Structure
 
 The Menu will consist of four images, each representating a different area or enviroment. 
 In the application all areas will be unlocked automatically to give the user a choice as to which area they may want to begin with.
@@ -130,7 +116,7 @@ After the green house gas chain has been compeleted and put into the correct ord
 
 Moreover once a pledge has been chosen the user will then be taken (transitioned) back to the main menu screen.
 
-### 3.10 Players | Platform
+### 3.9 Players | Platform
 
 The application will adhere to 11-16 year olds, being compatible on the following system;
 
@@ -138,7 +124,7 @@ Apple-IPAD-IOS-Chrome
 
 The application itself though not built with multiplayer, may be used by multiple people through sharing one system or machine and  straightforward discussion  (as to what should be inputted).
 
-### 3.11 Genre
+### 3.10 Genre
 
 	2D
 
@@ -146,15 +132,15 @@ The application itself though not built with multiplayer, may be used by multipl
 
 	Memory Game
 
-### 3.12 Intended Audience
+### 3.11 Intended Audience
 
 The intended audience of the game is for casual or non-gamers of all genders spanning from the age of 11 to 16, however the primary age range is 11 to 12 years old.
 
-### 3.13 Sound Consideration
+### 3.12 Sound Consideration
 
 The game is not sound dependant since it was requested by the client(no sound or audio).
 
-### 3.14 Language
+### 3.13 Language
 
 The only language avaliable in the game will be english. 
 
@@ -260,7 +246,16 @@ This week’s sprints first started with our group meeting and discussing what w
 
 ## 5. Evaluation
 ### 5.1 How User and Software Requirements Have Been Addressed
+When a development methodology has been declared, structuring the work is then the issue. Within Agile Development, the work is divided into four sections to bring the structure of the project. The structure is this:
 
+* Epic - The large body of work and mainly the main objective. Within this are stories.
+* Stories - Small work units or tasks that are done to make up the epic.
+* Version - The release of the software
+* Sprint - The iteration where the team then come together to work.
+
+Using these sections helps break down the requirements and lays them out into workable parts for the software teams. In addition, it can help with prioitzing customer feedback and can change the plan around without having a negative impact.
+
+Epics are the larger bodies that the stories are contained in and make up. Versions are made from different epics being a point in time to where the software is released. These can change over the course of the project being part of agile development and are created through the development and feedback, where the user stories are added, changed or removed to optimize a the release time.
 
 ### 5.2 Techniques used in the design and delivery
 * Breaking down a problem/decomposition - Understanding the problem and breaking it down into individual tasks or aims by going from the best ideas from members of the team.
