@@ -4,18 +4,17 @@
 
 ```
 1. Design History
-2. Game Overview
+2. Management
   2.1 Introduction
-3. Specification
-  3.1 Scope
-  3.2 The Planning
-  3.3 Cost
-  3.4 Feedback
-  3.5 Concept
-    3.5.1 Menu and Game A.I
-  3.6 Story
-  3.7 Setting
-  3.8 Application Structure
+  2.2 Scope
+  2.3 Cost
+  2.4 
+  2.5 Feedback
+  2.6 Concept
+    2.6.1 Menu and Game A.I
+  2.7 Story
+  2.8 Setting
+  2.9 Application Structure
   3.9 Players | Platform
   3.10 Genre
   3.11 Intended Audience
@@ -107,7 +106,7 @@ ZSL has given us the task of creating a web based application for children aged 
 #### 2.9.3 Burndown Chart
 ![Burndown Chart](https://github.com/LBruni98/ZSL-The-Climate-Menace/blob/master/Burndown%20Chart.PNG)
 
-#### 2.9.3 Monday 2nd October - 8th October
+#### 2.9.4 Monday 2nd October - 8th October
 We first started with a 1 hour sprint to put our ideas together, we began brainstorming ideas of what the main gameplay of the game would be. We decided to go with an item finding game where the user would have to find certain items in environments, which would give the user information based on each item (how greenhouse gases are created by the item etc.). We also decided on a main menu where the user would be able to decide which environment they would be using (this would depend on the environment table they are at in the ZSL session). We then spent the rest of the week fine tuning this idea and creating concepts of how the app interface would look. In our second sprint on the 5th we then decided on the aesthetic of the app, we decided upon using a comic book style as we felt that would be appealing for the children using the app.
 
 Tasks for 9th-15th
@@ -116,7 +115,7 @@ Tasks for 9th-15th
 •	Start Product Backlog and design flow chart(Sam)
 •	Design concept art (Luke)
 
-#### 2.9.4 Monday 17th October sprint 1
+#### 2.9.5 Monday 17th October sprint 1
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
@@ -126,7 +125,7 @@ Tasks for 9th-15th
 | Create mock ups for your games UI |   Luke Bruni   |   45 minutes    |      Yes       |
 | Create a full list of features and how it relates to clients requirements |  Luke Shead  |   45 minutes | Yes |                        | Compile, create and practice concept pitch  |   Whole Group |      1 hour    |  Yes    |
 
-#### 2.9.5 Monday 17th October Sprint 2
+#### 2.9.6 Monday 17th October Sprint 2
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
@@ -139,7 +138,7 @@ Tasks for 9th-15th
 
 This week’s sprints first started with our group meeting and discussing what we had achieved before the first week, Luke Shead had created the pitch presentation, Joe and Matthew had created some storyboards of how the app would function, Luke Bruni had created some concept art of the main menu and the artic habitat background and Sam had started the backlog of the previous sprints we had completed. Once we had confirmed that the tasks from last week were complete, we then assigned each other tasks that we needed to complete within a 45 minute timeframe (See in table sprint 1). This sprint was focused on our pitch and adding details to certain parts of our pitch, for example we needed to add more details to our storyboard to include the part where the students would give their pledges. Once we had completed the tasks we took an hour break then moved onto our second sprint. This sprint was more focused on how we would manage our project (see in table sprint 2); a way we are doing this is by creating user stories, so we have clear simple tasks that we can complete in our sprints.
 
-#### 2.9.6 30th October-7th November
+#### 2.9.7 30th October-7th November
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
@@ -261,7 +260,7 @@ Using these sections helps break down the requirements and lays them out into wo
 
 Epics are the larger bodies that the stories are contained in and make up. Versions are made from different epics being a point in time to where the software is released. These can change over the course of the project being part of agile development and are created through the development and feedback, where the user stories are added, changed or removed to optimize a the release time.
 
-### 5.2 Tools and Techniques used in the design and delivery
+### 5.2 Problem Solving Techniques used in the design and delivery
 * Breaking down a problem/decomposition - Understanding the problem and breaking it down into individual tasks or aims by going from the best ideas from members of the team.
 
 * Trial and error - Working with different ideas and methods and continue through thick and thin until a more desired solution is met.
@@ -314,7 +313,13 @@ In the project, I was mainly on the visual aspect, working alongside another mem
 
 I also had to deal with the initial concept; what the interface and menus would look like. I designed both the menu and the application which went through numerous changes until it reached a point of what would match the comic book style and reflect on the client organisation. When presented, the client liked the overall design of the menus and agreed with most of the choices the team and I have chosen, save for how the greenhouse meter would be used based on mechanics. Though positive, I feel as if I should of consulted the team on the designs to see if they would have faired better under what the team's thoughts and what they would've reckoned on how the designs should of looked, which in turn provided a better outcome when displaying to the client.
 
-### 5.6 Project Evaluation
+### 5.6 Justification of Methodologies
+
+### 5.7 Tools and Techniques
+
+### 5.8 Design Evaluation
+
+### 5.9 Project Evaluation
 The project was more or less a huge challenge to complete, however has not cemented full approval of the client dispite the positive feedback. The project presented has gone through many changes during development, which comes down to many factors, time was being a main factor. Other factors included within the development of this application was presentation; would the app fit the clients demonstration.
 
 Based on the original design documentation, the original app was designed to be an interactive comic book with a superhero protagonist, where the user (being the school pupil) had the choice between a hero and heroine and choosing between 4 habitats to save. A storyline was also considered; a villian called the climate Menace was polluting the Earth and the superhero along with the user must help to destroy him. Cutscenes were layed out inbetween the interactive parts, detailing how the Climate Menace was destroying parts of a certain habitat along with facts surrounding greenhouse gases and pollution that surrounded said habitat, which were part of the dialogue between the two characters.
@@ -326,7 +331,7 @@ Communication between the team was lacking most meaning that work outside the wo
 
 Overall, the development of the application was very good, despite the challenging nature of said developemnt. We almost worked to the best of our abilities, but we reckon that the limiting deadline and unfamiliarity with the development engine, alongside lack of communication was the reason the application wasn't to the highest standards that we and possibly the client expected, but none the less it recieved positive feedback though wasn't selected for the final choice.
 
-### 5.7 Process to Give Critical Reasoning
+### 5.10 Process to Give Critical Reasoning
 The method used to critically assess my evaluation was mainly to determine if the outcome of my choices were appropriate given the tasks at hand. Upon looking back at my roles in this project, I analysed every piece of my work that was relevent to the design and actual creation of the project and the documentation, particularly the backlogs as tasks of the project, where I was questioning the actions of development, such as why I took this role or what the reason was for particular contributions. To determine the overall evaluation, I was also looking at how my team did in response to my role, analysing the documentation at hand, their roles and contributions and even the demo delivered to our client. These methods of anaylsing was more or less a good basis to come up with my evaluation and questioning on my roles and the team, as they detail what went into the development of the project and provided an overall documentation of the team's records and downfalls with the project, with other details that we looked into, such as the limited timeframe, to give as much of an honest review of the project and justifications of the roles we took. However, the methods that went into the process weren't as much of a way to state accuruately on our performance and didn't help clarify on the improvements that would've helped the whole team.
 
 Going into why the methods weren't as much to aid in a better evaluation to help the team as a whole, there are other methods that would've helped improve upon the process and aid in a better evaluation of the project, particualarly feedback on the project and from other members about how they felt about the development of the project or on how we as individuals worked. With this, it would've helped in the process of critical reasoning to help with a better evaluation of the project and would aided further with outlining improvements that we would work on in regards to another project.
