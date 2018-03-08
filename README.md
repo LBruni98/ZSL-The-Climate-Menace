@@ -63,12 +63,92 @@ This documentation is meant to be read by programmers, artists and producers inv
 
 ### 2.3 Cost
 
-The development will be carried out on PC so no license will be required whatsoever. Unity Pro, the game engine that the app will be developed on, costs £125 a month and over a 2 month period, bringing the cost to £250.
+The development will be carried out on PC so no license will be required whatsoever. Unity Pro, the game engine that the app will be developed on, costs £125 a month per person, to the subtotal of £625 and taking into consideration of the amount of time needed to develop the game, which was two weeks brings the cost to £1,250
 
 ### 2.4 Resources
+### 2.4.1 IDE/Developer Environment
 
 ### 2.5 Quality
 
+### 2.6 Time
+![First Gantt](https://github.com/RebootGames/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
+
+### 2.7 Communication
+
+### 2.8 Risks
+
+### 2.9 ZSL Project Backlog
+Group Details
+
+Group Name: Ducks and Bucks
+
+Group Members: Luke Shead, Joe Williams, Sam Dearing, Matthew Sides, Luke Bruni
+
+##### 2.9.1 Project Definition
+Create an app for ZSL that teaches students how greenhouse gases are produced and how they affect certain habitats. Students will be required, at the end of the session, to create a pledge of how they can reduce their greenhouse footprint.
+Project Specification
+
+ZSL has given us the task of creating a web based application for children aged 11-16 which will be used in their climate change sessions. The purpose of the app is to teach students how greenhouse gases are produced and the effects they have of habitats and show them what they/society can do to reduce the levels of greenhouse gases. The app will need to include 4 habitats with their own greenhouse chain that will be displayed to the user: Artic (Plastic Bottles), British Wildlife(Beef), Ocean (Leaving electronics on standby/oil rigging), rainforest (Mobile phones). At the end of the app students will need to create ‘pledges’ of how they will reduce their greenhouse footprint.
+
+#### 2.9.2 Project Backlog
+
+-Monday 2nd October -Sunday 8th October: Create Idea for project
+
+-Monday 9th October - Sunday 15th October: Create Pitch for project 
+
+-Monday 16th October: First Review
+
+-Monday 16th October - Sunday October 29th: Develop demo for app and design product design document
+
+-Monday 30th October: Second Review
+
+-Tuesday 7th November: Final Presentation
+
+#### 2.9.3 Monday 2nd October - 8th October
+We first started with a 1 hour sprint to put our ideas together, we began brainstorming ideas of what the main gameplay of the game would be. We decided to go with an item finding game where the user would have to find certain items in environments, which would give the user information based on each item (how greenhouse gases are created by the item etc.). We also decided on a main menu where the user would be able to decide which environment they would be using (this would depend on the environment table they are at in the ZSL session). We then spent the rest of the week fine tuning this idea and creating concepts of how the app interface would look. In our second sprint on the 5th we then decided on the aesthetic of the app, we decided upon using a comic book style as we felt that would be appealing for the children using the app.
+
+Tasks for 9th-15th
+•	design App pitch presentation (Luke) 
+•	Create storyboard of app (Joe and Matthew)
+•	Start Product Backlog and design flow chart(Sam)
+•	Design concept art (Luke)
+
+#### 2.9.4 Monday 17th October sprint 1
+
+| Task    | Group Member         | Time Allocated               | Completed                      |
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
+|Provide a project specification supported with a definition of the problem |   Sam     | 45 Minutes |  Yes |                 
+| Plan and research your App Game Genre, theme, style, Play and Mechanics| Joe | 45 Minutes | Yes | 
+| Add to mock ups for the games overall story board |    Matthew  |     45 Minutes   |   Yes     | 
+| Create mock ups for your games UI |   Luke Bruni   |   45 minutes    |      Yes       |
+| Create a full list of features and how it relates to clients requirements |  Luke Shead  |   45 minutes | Yes |                        | Compile, create and practice concept pitch  |   Whole Group |      1 hour    |  Yes    |
+
+#### 2.9.5 Monday 17th October Sprint 2
+
+| Task    | Group Member         | Time Allocated               | Completed                      |
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
+| Identify project outcomes using a GANTT chart|   Joe and Matthew   | 30 mins |  Yes |                 
+| Add possible contingency options against risk, time, technology etc. to overall plan | Luke Shead | 30 Minutes | Yes | 
+| Create a full set of user stories | Luke Bruni |30 mins   |	Yes     |   
+| Create mock ups for your games UI |   Luke Bruni   |   45 minutes    |      Yes       |
+| Use stories to add to the backlog | Sam  |   30 minutes | Yes |                        
+| Create this week’s sprint backlog  |   Sam |      30 minutes    |  Yes    |                                    
+
+This week’s sprints first started with our group meeting and discussing what we had achieved before the first week, Luke Shead had created the pitch presentation, Joe and Matthew had created some storyboards of how the app would function, Luke Bruni had created some concept art of the main menu and the artic habitat background and Sam had started the backlog of the previous sprints we had completed. Once we had confirmed that the tasks from last week were complete, we then assigned each other tasks that we needed to complete within a 45 minute timeframe (See in table sprint 1). This sprint was focused on our pitch and adding details to certain parts of our pitch, for example we needed to add more details to our storyboard to include the part where the students would give their pledges. Once we had completed the tasks we took an hour break then moved onto our second sprint. This sprint was more focused on how we would manage our project (see in table sprint 2); a way we are doing this is by creating user stories, so we have clear simple tasks that we can complete in our sprints.
+
+#### 2.9.6 30th October-7th November
+
+| Task    | Group Member         | Time Allocated               | Completed                      |
+|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
+| Complete Drag-and-drop chain sections of the app |  Matthew   | 5 Days |  Yes |                 
+| Complete student pledges part of app | Sam | 5 Days | Yes | 
+| Continue creating assets to be used in game | Luke Bruni | 5 Days |	Yes |   
+| Figure out how to get the app up on the  Ipad |   Joe and Luke shead   |   5 Days    |      Yes       |
+| Test all aspects of the app| All Members  |   5 Days | Yes |                        
+| Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
+|Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
+
+## 3. Design
 
 ### 2.4 The Planning
 
@@ -164,88 +244,6 @@ Ingame Font:
 Jupiter (Menu,Game Screen)
 .... (Comic Font)
 
-### 4.4 ZSL Project Backlog
-Group Details
-
-Group Name: Ducks and Bucks
-
-Group Members: Luke Shead, Joe Williams, Sam Dearing, Matthew Sides, Luke Bruni
-
-Project Definition
-
-Create an app for ZSL that teaches students how greenhouse gases are produced and how they affect certain habitats. Students will be required, at the end of the session, to create a pledge of how they can reduce their greenhouse footprint.
-Project Specification
-
-ZSL has given us the task of creating a web based application for children aged 11-16 which will be used in their climate change sessions. The purpose of the app is to teach students how greenhouse gases are produced and the effects they have of habitats and show them what they/society can do to reduce the levels of greenhouse gases. The app will need to include 4 habitats with their own greenhouse chain that will be displayed to the user: Artic (Plastic Bottles), British Wildlife(Beef), Ocean (Leaving electronics on standby/oil rigging), rainforest (Mobile phones). At the end of the app students will need to create ‘pledges’ of how they will reduce their greenhouse footprint.
-
-![First Gantt](https://github.com/RebootGames/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
-
-#### 4.4.1 Schedule
-
--Monday 2nd October -Sunday 8th October: Create Idea for project
-
--Monday 9th October - Sunday 15th October: Create Pitch for project 
-
--Monday 16th October: First Review
-
--Monday 16th October - Sunday October 29th: Develop demo for app and design product design document
-
--Monday 30th October: Second Review
-
--Tuesday 7th November: Final Presentation
-
-#### 4.4.2 Monday 2nd October - 8th October
-We first started with a 1 hour sprint to put our ideas together, we began brainstorming ideas of what the main gameplay of the game would be. We decided to go with an item finding game where the user would have to find certain items in environments, which would give the user information based on each item (how greenhouse gases are created by the item etc.). We also decided on a main menu where the user would be able to decide which environment they would be using (this would depend on the environment table they are at in the ZSL session). We then spent the rest of the week fine tuning this idea and creating concepts of how the app interface would look. In our second sprint on the 5th we then decided on the aesthetic of the app, we decided upon using a comic book style as we felt that would be appealing for the children using the app.
-
-Tasks for 9th-15th
-•	design App pitch presentation (Luke) 
-•	Create storyboard of app (Joe and Matthew)
-•	Start Product Backlog and design flow chart(Sam)
-•	Design concept art (Luke)
-
-#### 4.4.3 Monday 17th October sprint 1
-
-| Task    | Group Member         | Time Allocated               | Completed                      |
-|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
-|Provide a project specification supported with a definition of the problem |   Sam     | 45 Minutes |  Yes |                 
-| Plan and research your App Game Genre, theme, style, Play and Mechanics| Joe | 45 Minutes | Yes | 
-| Add to mock ups for the games overall story board |    Matthew  |     45 Minutes   |   Yes     | 
-| Create mock ups for your games UI |   Luke Bruni   |   45 minutes    |      Yes       |
-| Create a full list of features and how it relates to clients requirements |  Luke Shead  |   45 minutes | Yes |                        | Compile, create and practice concept pitch  |   Whole Group |      1 hour    |  Yes    |
-
-
-#### 4.4.4 Monday 17th October Sprint 2
-
-
-
-
-
-
-
-| Task    | Group Member         | Time Allocated               | Completed                      |
-|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
-| Identify project outcomes using a GANTT chart|   Joe and Matthew   | 30 mins |  Yes |                 
-| Add possible contingency options against risk, time, technology etc. to overall plan | Luke Shead | 30 Minutes | Yes | 
-| Create a full set of user stories | Luke Bruni |30 mins   |	Yes     |   
-| Create mock ups for your games UI |   Luke Bruni   |   45 minutes    |      Yes       |
-| Use stories to add to the backlog | Sam  |   30 minutes | Yes |                        
-| Create this week’s sprint backlog  |   Sam |      30 minutes    |  Yes    |                                    
-
-
-This week’s sprints first started with our group meeting and discussing what we had achieved before the first week, Luke Shead had created the pitch presentation, Joe and Matthew had created some storyboards of how the app would function, Luke Bruni had created some concept art of the main menu and the artic habitat background and Sam had started the backlog of the previous sprints we had completed. Once we had confirmed that the tasks from last week were complete, we then assigned each other tasks that we needed to complete within a 45 minute timeframe (See in table sprint 1). This sprint was focused on our pitch and adding details to certain parts of our pitch, for example we needed to add more details to our storyboard to include the part where the students would give their pledges. Once we had completed the tasks we took an hour break then moved onto our second sprint. This sprint was more focused on how we would manage our project (see in table sprint 2); a way we are doing this is by creating user stories, so we have clear simple tasks that we can complete in our sprints.
-
-#### 4.4.5 30th October-7th November
-
-
-| Task    | Group Member         | Time Allocated               | Completed                      |
-|----------------------------------------------------------|-----------------|----------------------|--------------------------------|
-| Complete Drag-and-drop chain sections of the app |  Matthew   | 5 Days |  Yes |                 
-| Complete student pledges part of app | Sam | 5 Days | Yes | 
-| Continue creating assets to be used in game | Luke Bruni | 5 Days |	Yes |   
-| Figure out how to get the app up on the  Ipad |   Joe and Luke shead   |   5 Days    |      Yes       |
-| Test all aspects of the app| All Members  |   5 Days | Yes |                        
-| Continue Project Documentation  |   Sam |      5 Days   |  Yes    |                                    
-|Combine all sections of the app, when all sections are done | All Members | 2 hours | Yes|
 
 ## 5. Evaluation
 ### 5.1 How User and Software Requirements Have Been Addressed
@@ -260,7 +258,7 @@ Using these sections helps break down the requirements and lays them out into wo
 
 Epics are the larger bodies that the stories are contained in and make up. Versions are made from different epics being a point in time to where the software is released. These can change over the course of the project being part of agile development and are created through the development and feedback, where the user stories are added, changed or removed to optimize a the release time.
 
-### 5.2 Techniques used in the design and delivery
+### 5.2 Tools and Techniques used in the design and delivery
 * Breaking down a problem/decomposition - Understanding the problem and breaking it down into individual tasks or aims by going from the best ideas from members of the team.
 
 * Trial and error - Working with different ideas and methods and continue through thick and thin until a more desired solution is met.
