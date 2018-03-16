@@ -73,10 +73,12 @@ The development will be carried out on PC so no license will be required whatsoe
 #### 2.6.1 Gantt Chart
 ![First Gantt](https://github.com/RebootGames/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
 
-The chart here shows
+The chart here shows how the time was laid out over each task and managed over the course of the entire project, showcasing how much time we planned to spend on and also showing the pre allocated time for the risks of the project that could come up, thus allowing contingency times just in case.
+
 #### 2.6.2 Burndown Chart
 ![Burndown Chart](https://github.com/LBruni98/ZSL-The-Climate-Menace/blob/master/Burndown%20Chart.PNG)
 
+The Burndown chart shows the status of time it took for completing the project. The straight, black line is the predicted amount of time that it would take to complete the task and the red line is the actual pace that the project went in comparison. As demonstraited by this line, the development was lacking slightly, but was then caught up and finished before the actual deadline.
 ### 2.7 Communication
 
 ### 2.8 Risks
