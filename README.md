@@ -70,7 +70,12 @@ The development will be carried out on PC so no license will be required whatsoe
 ### 2.5 Quality
 
 ### 2.6 Time
+#### 2.6.1 Gantt Chart
 ![First Gantt](https://github.com/RebootGames/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
+
+The chart here shows
+#### 2.6.2 Burndown Chart
+![Burndown Chart](https://github.com/LBruni98/ZSL-The-Climate-Menace/blob/master/Burndown%20Chart.PNG)
 
 ### 2.7 Communication
 
@@ -103,10 +108,9 @@ ZSL has given us the task of creating a web based application for children aged 
 
 -Tuesday 7th November: Final Presentation
 
-#### 2.9.3 Burndown Chart
-![Burndown Chart](https://github.com/LBruni98/ZSL-The-Climate-Menace/blob/master/Burndown%20Chart.PNG)
 
-#### 2.9.4 Monday 2nd October - 8th October
+
+#### 2.9.3 Monday 2nd October - 8th October
 We first started with a 1 hour sprint to put our ideas together, we began brainstorming ideas of what the main gameplay of the game would be. We decided to go with an item finding game where the user would have to find certain items in environments, which would give the user information based on each item (how greenhouse gases are created by the item etc.). We also decided on a main menu where the user would be able to decide which environment they would be using (this would depend on the environment table they are at in the ZSL session). We then spent the rest of the week fine tuning this idea and creating concepts of how the app interface would look. In our second sprint on the 5th we then decided on the aesthetic of the app, we decided upon using a comic book style as we felt that would be appealing for the children using the app.
 
 Tasks for 9th-15th
@@ -115,7 +119,7 @@ Tasks for 9th-15th
 •	Start Product Backlog and design flow chart(Sam)
 •	Design concept art (Luke)
 
-#### 2.9.5 Monday 17th October sprint 1
+#### 2.9.4 Monday 17th October sprint 1
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
@@ -125,7 +129,7 @@ Tasks for 9th-15th
 | Create mock ups for your games UI |   Luke Bruni   |   45 minutes    |      Yes       |
 | Create a full list of features and how it relates to clients requirements |  Luke Shead  |   45 minutes | Yes |                        | Compile, create and practice concept pitch  |   Whole Group |      1 hour    |  Yes    |
 
-#### 2.9.6 Monday 17th October Sprint 2
+#### 2.9.5 Monday 17th October Sprint 2
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
@@ -138,10 +142,10 @@ Tasks for 9th-15th
 
 This week’s sprints first started with our group meeting and discussing what we had achieved before the first week, Luke Shead had created the pitch presentation, Joe and Matthew had created some storyboards of how the app would function, Luke Bruni had created some concept art of the main menu and the artic habitat background and Sam had started the backlog of the previous sprints we had completed. Once we had confirmed that the tasks from last week were complete, we then assigned each other tasks that we needed to complete within a 45 minute timeframe (See in table sprint 1). This sprint was focused on our pitch and adding details to certain parts of our pitch, for example we needed to add more details to our storyboard to include the part where the students would give their pledges. Once we had completed the tasks we took an hour break then moved onto our second sprint. This sprint was more focused on how we would manage our project (see in table sprint 2); a way we are doing this is by creating user stories, so we have clear simple tasks that we can complete in our sprints.
 
-#### 2.9.7 Monday 17th Concept Pitch
+#### 2.9.6 Monday 17th Concept Pitch
 At this time, we were instructed to meet with our client in regards to our pitch ideas and showcase what we have in mind for the application. In order to present the client with the designs in mind, a powerpoint presentation was devised by Luke Shead, to showcase the design of the app and what it's functions are, showing what we are doing to fulfil the client's requirements. Within the powerpoint detailed the most important aspects of development including concept art and how the initial app will look like. These designs and functions of the application would be reviewed by the client and her thoughts on the design would be shared to us.
 
-##### 2.9.7.1 Communication methods
+##### 2.9.6.1 Communication methods
 When giving the event for the client, numerous communication methods were used to ensure that the information we were giving to the client was recieved clearly and understood.
 
 ###### Visual
@@ -156,7 +160,7 @@ A demo of the application was given to give a clearer understanding of what we w
 ###### Non-Verbal (Body Language)
 This was used mainly to help clear up any uncertain points, mainly by pointing to parts of the presentation and also to engage in the next part. Body language was also there to show a certain level of enthusasim demonstrated by the team member, Luke Shead, showing a huge level of interest that would certainly make the client satisfied.
 
-##### 2.9.7.2 Substantial Risks
+##### 2.9.6.2 Substantial Risks
 Issues had arisen during the finializing of the powerpoint presentation, the transferring of the presentation had caused some problems as the initial presentation was created in google docs then transferred over to Microsoft PowerPoint. By the time the pitch had started, the problems were ironed out in the end. Should the presentation not have been ready by that time because of these problems, physical handouts were created in case containing all the information of the application that was necessary, given alongside the presentation in case the client had missed some information or had wanted the full picture of the app.
 
 #### 2.9.7 30th October-7th November
