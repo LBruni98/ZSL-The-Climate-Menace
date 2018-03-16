@@ -154,7 +154,7 @@ Alongside the powerpoint, the slides were also aided by a member of the team giv
 A demo of the application was given to give a clearer understanding of what we were trying to do and to help the client follow along with the presentation rather than just relying solely on the presentation alone.
 
 ###### Non-Verbal (Body Language)
-This was used mainly to help clear up any uncertain points, mainly by pointing to parts of the presentation and also to engage in the next part. Body language was also there to show a certain level of enthusasim demonstrated by the team member, Luke Shead, showing a huge level of interest that would certainly make the client happy.
+This was used mainly to help clear up any uncertain points, mainly by pointing to parts of the presentation and also to engage in the next part. Body language was also there to show a certain level of enthusasim demonstrated by the team member, Luke Shead, showing a huge level of interest that would certainly make the client satisfied.
 
 ##### 2.9.7.2 Substantial Risks
 Issues had arisen during the finializing of the powerpoint presentation, the transferring of the presentation had caused some problems as the initial presentation was created in google docs then transferred over to Microsoft PowerPoint. By the time the pitch had started, the problems were ironed out in the end. Should the presentation not have been ready by that time because of these problems, physical handouts were created in case containing all the information of the application that was necessary, given alongside the presentation in case the client had missed some information or had wanted the full picture of the app.
@@ -284,9 +284,17 @@ Epics are the larger bodies that the stories are contained in and make up. Versi
 ### 5.2 Problem Solving Techniques used in the design and delivery
 * Breaking down a problem/decomposition - Understanding the problem and breaking it down into individual tasks or aims by going from the best ideas from members of the team.
 
+In regards to the development of the application, we had to understand the requirements of what the client wanted. After the first meeting with the client, the requirements became clear to us and we can finally start piecing together a plan. The client wanted specific features that would be included in the application, but weren't fully realized and we didn't know a starting point on how the feature would work, so the team broke down the requirement into that of an epic and then broke that down to form user stories to help us comprend how to implement the feature. These user stories would eventually be made into aims with various deadlines and different people working on it, helping us get closer to the requirements that the client wanted.
+
 * Trial and error - Working with different ideas and methods and continue through thick and thin until a more desired solution is met.
 
+In the ZSL project, we were a bit inexperienced with the software resources and thus tried to experiment with Unity until something was bound to work. This also was done to try to understand the engine better and help with tweaking the application where we thought it lacked. This method in turn helped us learn more and improved upon experience, but we wouldn't consider again due to the complexity and varied amount of time that this method would take up.
+
 * Teamwork and communication - Working within a team to achieve a set goal, along with communicating with others about the task at hand or offering suggestions to aid the development.
+
+Teamwork and communication was the main point of the entire project, where we could rely on each other to achieve a project goal. In the project, roles were taken up as to who will do what part of the application, such as the graphics, coding, etc. and each task was looked over by each member to see how well it was coming along.
+
+Communication was more or less another vital part of the development, allowing us to talk amongst the team members to find out how the task was going, if it was done or any other suggestion to the problem. Speaking with the client was also as major benefit as it allowed us to understand what sort of app that she wanted.
 
 ##### References
 1. Exforsys (2006). The Use of Trial and Error To Solve Problems. [online]. Exforsys Inc.. Available from: <http://www.exforsys.com/career-center/problem-solving/the-use-of-trial-and-error-to-solve-problems.html>. [Accessed 8 February 2018].
