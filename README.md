@@ -75,10 +75,15 @@ The development will be carried out on PC so no license will be required whatsoe
 
 The chart here shows how the time was laid out over each task and managed over the course of the entire project, showcasing how much time we planned to spend on and also showing the pre allocated time for the risks of the project that could come up, thus allowing contingency times just in case.
 
+The Gantt Chart is effective because it showcases what the tasks at hand are and a good estimate amount of time dedicated to it. Also noting that using the chart is that we can see what is due and when the next task can start, organizing the team further and not in any way confusing anyone with what tasks we should do at what time, which could very likely plague the project with delays or poor quality work. It also keeps a good eye on each milestone and gives a good heads up for decision-makers and ensure that the project is working upto the requirements.
+
 #### 2.6.2 Burndown Chart
 ![Burndown Chart](https://github.com/LBruni98/ZSL-The-Climate-Menace/blob/master/Burndown%20Chart.PNG)
 
-The Burndown chart shows the status of time it took for completing the project. The straight, black line is the predicted amount of time that it would take to complete the task and the red line is the actual pace that the project went in comparison. As demonstraited by this line, the development was lacking slightly, but was then caught up and finished before the actual deadline.
+The Burndown chart shows the status of time it took for completing the project. The straight, black line is the predicted amount of time that it would take to complete the task and the red line is the actual pace that the project went in comparison. As demonstrated by the red line in comparison to the black, the development was lacking slightly, but was then caught up and finished before the actual deadline.
+
+Burndown charts are effective in the sense that that they derive from the project backlogs, providing a good representation of the key data, which is the remaining work. The work in the actual line presented, shows that progress is being made and motivates the team; the line going ever closer to zero and considering if they are behind, would work harder to either reach the ideal line or before where it ends.
+
 ### 2.7 Communication
 
 ### 2.8 Risks
