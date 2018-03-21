@@ -352,6 +352,8 @@ In the ZSL project, feedback and support from fellow members proved to be a grea
 ### 5.4 Team Dynamics
 Team dynamics are an essential part of a project, mainly because of group orientated work being used in order to organize and develop the project where the tasks are seperated into different memebers of a group and ideas are shared. This is essiential to the success or failure towards a specific project and can massively affect the reputation of not only the group employees, but the entire company where the project can make or break it, even affecting the reputation of individual members of the group.
 
+Different team dynamics can have either have the same impacts as mentioned earlier, and are the foundations to either both a successful or failed project. Communication is a vital piece
+
 If the team have performed to the best of their abilities; their collaborative work towards the project is to high expectation and the other aspects, such as communication, team building and deadlines, then rest assured that the reputation is positively affected, bringing recognition to them in the long run and creating a standard to which the company that they work for is in a positive light. However, team dynamics can also bring a harsh impact, where factors such as uncooperative team members, missed deadlines and multiple delays can affect the standard of work within a project, leading to improvements being promised and not being of presentable quality towards the client. The negative standard can impact the company and/or the individuals within the company.
 
 ### 5.5 Role and Contribution
