@@ -8,38 +8,50 @@
   2.1 Introduction
   2.2 Scope
   2.3 Cost
-  2.4 
-  2.5 Feedback
-  2.6 Concept
-    2.6.1 Menu and Game A.I
-  2.7 Story
-  2.8 Setting
-  2.9 Application Structure
-  3.9 Players | Platform
-  3.10 Genre
-  3.11 Intended Audience
-  3.12 Sound Consideration
-  3.13 Language
-  4.1 Camera
-  4.2 General Movement
-  4.3 Fonts
-  4.4 ZSL Project Backlog
-    4.4.1 Schedule
-    4.4.2 Monday 2nd October - 8th October
-    4.4.3 Monday 17th October sprint 1
-    4.4.4 Monday 17th October Sprint 2
-    4.4.5 30th October-7th November
-5. Evaluation
-  5.1 How User and Software Requirements Have Been Addressed
-  5.2 Techniques used in the design and delivery
-  5.3 Motivational Theories
-    5.3.1 Hierarcy of Needs
-    5.3.2 Two-Factor Theory
-    5.3.3 Comparison of the two theories
-  5.4 Team Dynamics
-  5.5 Role and Contribution
-  5.6 Project Evaluation
-  5.7 Process to Give Critical Reasoning
+  2.4 Resources
+    2.4.1 IDE/Developer Environment
+  2.5 Quality
+  2.6 Time
+    2.6.1 Gantt Chart
+    2.6.2 Burndown Chart
+  2.7 Communication
+  2.8 Risks
+  2.9 ZSL Project Backlog
+    2.9.1 Project Definition
+    2.9.2 Project Backlog
+    2.9.3 Monday 2nd October - 8th October
+    2.9.4 Monday 17th October sprint 1
+    2.9.5 Monday 17th October Sprint 2
+    2.9.6 Monday 17th Concept Pitch
+      2.9.6.1 Communication methods
+    2.9.7 30th October-7th November
+3. Design
+  3.1 The Planning
+  3.2 Feedback
+  3.3 Concept
+    3.3.1 Menu and Game A.I
+  3.4 Story
+  3.5 Setting
+  3.6 Application Structure
+  3.7 Players | Platform
+  3.8 Genre
+  3.9 Intended Audience
+  3.10 Sound Consideration
+  3.11 Language
+  3.12 Camera
+  3.13 General Movement
+  3.14 Fonts
+4. Evaluation
+  4.1 How User and Software Requirements Have Been Addressed
+  4.2 Techniques used in the design and delivery
+  4.3 Motivational Theories
+    4.3.1 Hierarcy of Needs
+    4.3.2 Two-Factor Theory
+    4.3.3 Comparison of the two theories
+  4.4 Team Dynamics
+  4.5 Role and Contribution
+  4.6 Project Evaluation
+  4.7 Process to Give Critical Reasoning
 ```
 
 ## 1. Design History
