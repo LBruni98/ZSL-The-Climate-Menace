@@ -20,7 +20,6 @@
   3.11 Intended Audience
   3.12 Sound Consideration
   3.13 Language
-4. Game Mechanics | In-Game Elements
   4.1 Camera
   4.2 General Movement
   4.3 Fonts
@@ -190,7 +189,7 @@ Issues had arisen during the finializing of the powerpoint presentation, the tra
 
 ## 3. Design
 
-### 2.4 The Planning
+### 3.1 The Planning
 
 In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. We met on serveral occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we where able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we where able to use that for improvement to the app.
 
@@ -198,15 +197,15 @@ Before meetings there where some issues with the powerpoint presentation as it h
 
 After meeting we made sure to cover all of the risks and problems that we could encounter on the project. For example if someone was to have issues with a certain part of building the program, would there be help from the team and if so, was there flexability within the group to help. We took these risk into consideration and tried to make technical solutions to each of them. With us doing this it meant that most of the risks that could have been prevented were, this process saved much time and recources and allowed us to use our time much more effectively in the project.
 
-### 2.5 Feedback
+### 3.2 Feedback
 
 On parts of the ZSL project, there were meetings on the project to show what the app was looking like and if it was going in the right direction of what they wanted. The feedback that our group got on the first pitch was very eye-opening as it showed us that we had been going in a wrong direction with our app. The feedback that we got that our app was not informative enough and interactive sides of it were lacking allowed us to look back at our app and make changes to the app to fit the clients needs. This included changing the interactive side of it completely as well as adding in more parts to make it more informational.
 
-### 3.5 Concept
+### 3.3 Concept
 
 The aim is to produce a game which suits the client’s requirements, creating an educational application that is informative, engaging and interactive based on the proposed or pre-set subject (In this instance; Greenhouse gases, production, Manufacturing and the impact of said gases and manufacturing or production phases on the environment in addition to the influence on climate change). 
 
-#### 3.5.1 Menu and Game A.I
+#### 3.3.1 Menu and Game A.I
 
 The project app had its age group towards 11-16 with more emphasis towards the KS3 pupils, so the design we figured called for something that was cartoony and bright, mainly to appeal to said younger audience, but was more modern and reflects on the image of ZSL, which should appeal more to the older KS4, if not the public. The design we figured would work would be a more comic book style, which should appeal to the audience. Other elements would also reflect the image of ZSL but wouldn’t obstruct the original aesthetic of the app.
 
@@ -216,15 +215,15 @@ The menu would be fairly easy to look at and simple to use. The bright vivid col
 
 This shows the game’s UI, again using the design mentioned above. The user would have to try to find all 12 of the carbon emissions or “Hazards” in 5 minutes. Once the “Hazard” is found and selected, it will stand out from the rest of the elements and information will appear, giving a brief explanation of how the “Hazard” is contributing to carbon and greenhouse emissions or other factors of climate change and may impact on the greenhouse gas meter at the top. The elements will be hidden specifically to be enjoyable to the user and not at all too challenging.
 
-### 3.6 Story 
+### 3.4 Story 
 
 The story relates to the green house gases and chain, of the production and manufacturing proccess of four products to four habitats. The user is presented with the production and manufacutring proccess or segments of the green house gas chain and are then responsible or asked to recreate the chain after viewing the proccess once. Moreover once the chain is completed the user is then presented with what could be done to help alleviate the problem or rate at which green house gases are emmitted, which links in to the pledges the user is then shown and asked to pick at least one pledge to enact in their daily lives.
 
-### 3.7 Setting
+### 3.5 Setting
 
 This game will be set in the present/modern day. 
 
-### 3.8 Application Structure
+### 3.6 Application Structure
 
 The Menu will consist of four images, each representating a different area or enviroment. 
 In the application all areas will be unlocked automatically to give the user a choice as to which area they may want to begin with.
@@ -239,7 +238,7 @@ After the green house gas chain has been compeleted and put into the correct ord
 
 Moreover once a pledge has been chosen the user will then be taken (transitioned) back to the main menu screen.
 
-### 3.9 Players | Platform
+### 3.7 Players | Platform
 
 The application will adhere to 11-16 year olds, being compatible on the following system;
 
@@ -247,7 +246,7 @@ Apple-IPAD-IOS-Chrome
 
 The application itself though not built with multiplayer, may be used by multiple people through sharing one system or machine and  straightforward discussion  (as to what should be inputted).
 
-### 3.10 Genre
+### 3.8 Genre
 
 	2D
 
@@ -255,38 +254,36 @@ The application itself though not built with multiplayer, may be used by multipl
 
 	Memory Game
 
-### 3.11 Intended Audience
+### 3.9 Intended Audience
 
 The intended audience of the game is for casual or non-gamers of all genders spanning from the age of 11 to 16, however the primary age range is 11 to 12 years old.
 
-### 3.12 Sound Consideration
+### 3.10 Sound Consideration
 
 The game is not sound dependant since it was requested by the client(no sound or audio).
 
-### 3.13 Language
+### 3.11 Language
 
 The only language avaliable in the game will be english. 
 
-## 4. Game Mechanics | In-Game Elements
-
-### 4.1 Camera
+### 3.12 Camera
 
 The camera will be projected from a 2D front side angle of the menu, comics, pledges  and chain.
 
-### 4.2 General Movement
+### 3.13 General Movement
 
 The users will be able to drop and drag certain objects across the screen (for the chain segment).
 Whilst users will also be able to use the tap function (on the menu and comic slides to transition between scenes).
 
-### 4.3 Fonts
+### 3.14 Fonts
 
 Ingame Font: 
 Jupiter (Menu,Game Screen)
 .... (Comic Font)
 
 
-## 5. Evaluation
-### 5.1 How User and Software Requirements Have Been Addressed
+## 4. Evaluation
+### 4.1 How User and Software Requirements Have Been Addressed
 When a development methodology has been declared, structuring the work is then the issue. Within Agile Development, the work is divided into four sections to bring the structure of the project. The structure is this:
 
 * Epic - The large body of work and mainly the main objective. Within this are stories.
@@ -298,7 +295,7 @@ Using these sections helps break down the requirements and lays them out into wo
 
 Epics are the larger bodies that the stories are contained in and make up. Versions are made from different epics being a point in time to where the software is released. These can change over the course of the project being part of agile development and are created through the development and feedback, where the user stories are added, changed or removed to optimize a the release time.
 
-### 5.2 Problem Solving Techniques used in the design and delivery
+### 4.2 Problem Solving Techniques used in the design and delivery
 * Breaking down a problem/decomposition - Understanding the problem and breaking it down into individual tasks or aims by going from the best ideas from members of the team.
 
 In regards to the development of the application, we had to understand the requirements of what the client wanted. After the first meeting with the client, the requirements became clear to us and we can finally start piecing together a plan. The client wanted specific features that would be included in the application, but weren't fully realized and we didn't know a starting point on how the feature would work, so the team broke down the requirement into that of an epic and then broke that down to form user stories to help us comprend how to implement the feature. These user stories would eventually be made into aims with various deadlines and different people working on it, helping us get closer to the requirements that the client wanted.
@@ -316,8 +313,8 @@ Communication was more or less another vital part of the development, allowing u
 ##### References
 1. Exforsys (2006). The Use of Trial and Error To Solve Problems. [online]. Exforsys Inc.. Available from: <http://www.exforsys.com/career-center/problem-solving/the-use-of-trial-and-error-to-solve-problems.html>. [Accessed 8 February 2018].
 
-### 5.3 Motivational Theories
-#### 5.3.1 Hierarcy of Needs
+### 4.3 Motivational Theories
+#### 4.3.1 Hierarcy of Needs
 The Hierarcy of Needs methodology is a motivational theory comprimising five levels of the human needs. This is often dipicted as a five layer hirarcal pyramid and is divided into deficiency and growth needs:
 
 1. Physiological – these needs must be met in order for a person to survive, such as food, water and shelter.
@@ -328,7 +325,7 @@ The Hierarcy of Needs methodology is a motivational theory comprimising five lev
 
 The theory states that you must be in good health, safe and secure with meaningful relationships and confidence before you are at your very best [2].
 
-#### 5.3.2 Two-Factor Theory
+#### 4.3.2 Two-Factor Theory
 The Two-Factor Theory or Dual-Factor theory, developed in the 1950s by psychologist Frederick Herzberg, states that there are certain factors that influence job satisfaction and job dissatisfaction.
 
 1. Motivator factors – Simply put, these are factors that lead to satisfaction and motivate employees to work harder. Examples might include enjoying your work, feeling recognised and career progression.
@@ -336,7 +333,7 @@ The Two-Factor Theory or Dual-Factor theory, developed in the 1950s by psycholog
 
 It is also noted that these factors work independantly to each other, where the motivator factors increased satisfaction while present and the hygiene factors increased satisfaction when absent.
 
-#### 5.3.3 Comparison of the two theories
+#### 4.3.3 Comparison of the two theories
 The relations and differences of these two theroies are essentially based on what drives them; both are somewhat similar with how they are percieved, where both require needs to gain motivation. To have the user work to their absolute best, they would essiently need motivators to gain motivation and would have to be given from others, with appreciation and support to make them work to the best.
 
 The differences come from their needs entirely. The Two-factor theory basically states the needs of the person is what motivates them, what forces them to drive the person to work more from their work, whereas the Hierarcy of Needs theory is based on human needs, with the five levels of needs that the person should have to be motivated at their very best, A general idea of needs that the theory states.
@@ -349,7 +346,7 @@ In the ZSL project, feedback and support from fellow members proved to be a grea
 1. Mark (2014). 5 Psychological Theories of Motivation to Increase Productivity. [online]. Contactzilla. Available from: <https://contactzilla.com/blog/5-psychological-theories-motivation-increase-productivity/>. [Accessed 8 February 2018].
 2. Saul McLeod (2017). Maslow's Hierarchy of Needs. [online]. SimplyPsychology. Available from: <https://www.simplypsychology.org/maslow.html>. [Accessed 20 February 2018].
 
-### 5.4 Team Dynamics
+### 4.4 Team Dynamics
 Team Dynamics are the relationships and forces that drive the team's behaviour and performance, including the relationships between members and how it impacts the performance. This is essiential to the success or failure towards a specific project and can massively affect the reputation of not only the group employees, but the entire company and even affecting the reputation of individual members of the group.
 
 Different team dynamics can have either have the same impacts as mentioned earlier, and are the foundations to either both a successful or failed project. The relationships of a team could either have positive or adverse effects to the project and completely change the workplace environment depending on how they work together. An example being that in a team of five working on a project and how the team contribute. These five people could know each other throughout their lives, knowing on their strengths and weaknesses of each other and this could either play out in two ways; the team understand each member, leading to eventual support of each other and ultimately, work best where their strengths lie, creating a stable working environment and provide good motivation; or increasing conflict throughout the team, leading to arguments with each other and this can be down to a member not working to what the team or requirements expect or a lightwork load compared to the rest of the team, ultimately affecting the performance of each member and the relationships could rapidly deteriorate as well as even quitting an organisation because of this.
@@ -358,18 +355,18 @@ Any individual person in a team can have either a positive or negative impact to
 
 If the team have performed to the best of their abilities; their collaborative work towards the project is to high expectation and the other aspects, such as communication, team building and deadlines, then rest assured that the reputation is positively affected, bringing recognition to them in the long run and creating a standard to which the company that they work for is in a positive light. However, team dynamics can also bring a harsh impact, where factors such as uncooperative team members, missed deadlines and multiple delays can affect the standard of work within a project, leading to improvements being promised and not being of presentable quality towards the client. The negative standard can impact the company and/or the individuals within the company.
 
-### 5.5 Role and Contribution
+### 4.5 Role and Contribution
 In the project, I was mainly on the visual aspect, working alongside another member with the graphics but mainly responsible for the overall visual style of the application. I had chose the role of creating the visuals because I had more experience in the art aspect as opposed to the other elements of the project such as coding, though I did help with offering a couple of features to the game such as the greenhouse meter function in the form of a prototype. Ultimately, I was in charge of the art dynamic of the game as I thought it would be helpful to the team as as compared to the rest of the team, I had more experience of graphics because of practice outside of college. I decided that all art was going to be in photoshop, as compared to just drawing because I felt that by using Photoshop, I would be able to create some art that would perfectly convey what the client wanted, something that mere sketch-ups wouldn't achieve. A personal reason as to why I chose photoshop was, again, experience outside of college and the features would assist me more, though I do feel that my skill could be transferred to similar photo-editing software like GIMP, because it would be a useful backup if Photoshop were to ultimately fail. With my skills in photoshop, I would consider this as an advantage to the project as I don't need to take up valuable time trying to learn it and can get straight to working on the aims.
 
 The team wanted something along the lines of a comic book style to go along with the original idea of the application, to which I proposed a realistic-comic hybrid style that the team agreed with, where the idea would be to take real images and incorporate the visual style into them. The lack of communication was a problem, until meeting up with the team again, the visual aspect had to be reworked to fit in with my intended style, however, time could of been given for the other members if I had given my progress to them through messaging and emails. It wasn't all negative however, as my design still made it into the final application.
 
 I also had to deal with the initial concept; what the interface and menus would look like. I designed both the menu and the application which went through numerous changes until it reached a point of what would match the comic book style and reflect on the client organisation. When presented, the client liked the overall design of the menus and agreed with most of the choices the team and I have chosen, save for how the greenhouse meter would be used based on mechanics. Though positive, I feel as if I should of consulted the team on the designs to see if they would have faired better under what the team's thoughts and what they would've reckoned on how the designs should of looked, which in turn provided a better outcome when displaying to the client.
 
-### 5.6 Justification of Methodologies
+### 4.6 Justification of Methodologies
 
-### 5.7 Tools and Techniques
+### 4.7 Tools and Techniques
 
-### 5.8 Project Evaluation
+### 4.8 Project Evaluation
 The project was more or less a huge challenge to complete, however has not cemented full approval of the client dispite the positive feedback. The project presented has gone through many changes during development, which comes down to many factors, time was being a main factor. Other factors included within the development of this application was presentation; would the app fit the clients demonstration.
 
 Based on the original design documentation, the original app was designed to be an interactive comic book with a superhero protagonist, where the user (being the school pupil) had the choice between a hero and heroine and choosing between 4 habitats to save. A storyline was also considered; a villian called the climate Menace was polluting the Earth and the superhero along with the user must help to destroy him. Cutscenes were layed out inbetween the interactive parts, detailing how the Climate Menace was destroying parts of a certain habitat along with facts surrounding greenhouse gases and pollution that surrounded said habitat, which were part of the dialogue between the two characters.
@@ -381,7 +378,7 @@ Communication between the team was lacking most meaning that work outside the wo
 
 Overall, the development of the application was very good, despite the challenging nature of said developemnt. We almost worked to the best of our abilities, but we reckon that the limiting deadline and unfamiliarity with the development engine, alongside lack of communication was the reason the application wasn't to the highest standards that we and possibly the client expected, but none the less it recieved positive feedback though wasn't selected for the final choice.
 
-### 5.9 Process to Give Critical Reasoning
+### 4.9 Process to Give Critical Reasoning
 The method used to critically assess my evaluation was mainly to determine if the outcome of my choices were appropriate given the tasks at hand. Upon looking back at my roles in this project, I analysed every piece of my work that was relevent to the design and actual creation of the project and the documentation, particularly the backlogs as tasks of the project, where I was questioning the actions of development, such as why I took this role or what the reason was for particular contributions. To determine the overall evaluation, I was also looking at how my team did in response to my role, analysing the documentation at hand, their roles and contributions and even the demo delivered to our client. These methods of anaylsing was more or less a good basis to come up with my evaluation and questioning on my roles and the team, as they detail what went into the development of the project and provided an overall documentation of the team's records and downfalls with the project, with other details that we looked into, such as the limited timeframe, to give as much of an honest review of the project and justifications of the roles we took. However, the methods that went into the process weren't as much of a way to state accuruately on our performance and didn't help clarify on the improvements that would've helped the whole team.
 
 Going into why the methods weren't as much to aid in a better evaluation to help the team as a whole, there are other methods that would've helped improve upon the process and aid in a better evaluation of the project, particualarly feedback on the project and from other members about how they felt about the development of the project or on how we as individuals worked. With this, it would've helped in the process of critical reasoning to help with a better evaluation of the project and would aided further with outlining improvements that we would work on in regards to another project.
