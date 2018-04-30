@@ -110,7 +110,7 @@ The Burndown chart shows the status of time it took for completing the project. 
 Burndown charts are effective in the sense that that they derive from the project backlogs, providing a good representation of the key data, which is the remaining work. The work in the actual line presented, shows that progress is being made and motivates the team; the line going ever closer to zero and considering if they are behind, would work harder to either reach the ideal line or before where it ends.
 
 ### 2.7 Communication
-The team will meet 3 weeks during college time to desicuss 
+
 ### 2.8 Risks
 
 ### 2.9 ZSL Project Backlog
