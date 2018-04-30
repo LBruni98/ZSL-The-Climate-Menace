@@ -71,6 +71,11 @@ This document specifies a design for the conceptual features and mechanics (game
 
 This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “Greenhouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and interactive, ZSL required these for the app to be successful.
 
+### 2.3 Overview
+The project came about after a client came to us, following a request for the class to develop an app for the target audience during their visit to the London or Whipsnade Zoo. The client was part of the Zoological Society of London and had tasked other colleges and universities with creating an application similar.
+
+The idea was to create an app that would look appealing to kids between the target age of 12-15 year olds, surrounding the effect of greenhouse gases on the earth and focusing on climate change. The app had to be focused on the four areas at which are climate change could affect said environment and what consequence it has, as well as how to reduce the effects in that environment. This effectively delvers a message to the kids, keeping in mind what the factors of climate change, what causes it and how to prevent it.
+
 ### 2.3 Cost
 
 The development will be carried out on PC so no license will be required whatsoever. Unity Pro, the game engine that the app will be developed on, costs £125 a month per person, to the subtotal of £625 and taking into consideration of the amount of time needed to develop the game, which was two weeks brings the cost to £1,250
