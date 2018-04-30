@@ -110,7 +110,7 @@ The Burndown chart shows the status of time it took for completing the project. 
 Burndown charts are effective in the sense that that they derive from the project backlogs, providing a good representation of the key data, which is the remaining work. The work in the actual line presented, shows that progress is being made and motivates the team; the line going ever closer to zero and considering if they are behind, would work harder to either reach the ideal line or before where it ends.
 
 ### 2.7 Communication
-
+The team will meet 3 weeks during college time to desicuss 
 ### 2.8 Risks
 
 ### 2.9 ZSL Project Backlog
@@ -336,6 +336,14 @@ In the ZSL project, we were a bit inexperienced with the software resources and 
 Teamwork and communication was the main point of the entire project, where we could rely on each other to achieve a project goal. In the project, roles were taken up as to who will do what part of the application, such as the graphics, coding, etc. and each task was looked over by each member to see how well it was coming along.
 
 Communication was more or less another vital part of the development, allowing us to talk amongst the team members to find out how the task was going, if it was done or any other suggestion to the problem. Speaking with the client was also as major benefit as it allowed us to understand what sort of app that she wanted.
+
+#### 4.2.1 Tools used in the design and delivery
+
+* Photoshop - Image manipulation tool that can allow for the creation of images and other graphics. For the purpose of the project, this was used to create the comic book graphics for the game, by graphic designer Luke Bruni. This was done by merging provided images into one layer, then using Photoshop’s pre-set filters to differentiate the images from the originals and ensure that the graphics were applicable and suitable to the aesthetic requested and set to be used in the design and creation of the application.
+
+* Unity - Software development program for the development of games and other applications. This was used for the overall development of our application, chosen because of its benefits and the ease of use.
+
+* Powerpoint - Software that allows for the creation of presentations by Microsoft. This was used for developing the presentations that would be used for the meetings with the client to showcase the development of the app.
 
 ##### References
 1. Exforsys (2006). The Use of Trial and Error To Solve Problems. [online]. Exforsys Inc.. Available from: <http://www.exforsys.com/career-center/problem-solving/the-use-of-trial-and-error-to-solve-problems.html>. [Accessed 8 February 2018].
