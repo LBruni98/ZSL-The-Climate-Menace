@@ -76,14 +76,23 @@ The project came about after a client came to us, following a request for the cl
 
 The idea was to create an app that would look appealing to kids between the target age of 12-15 year olds, surrounding the effect of greenhouse gases on the earth and focusing on climate change. The app had to be focused on the four areas at which are climate change could affect said environment and what consequence it has, as well as how to reduce the effects in that environment. This effectively delvers a message to the kids, keeping in mind what the factors of climate change, what causes it and how to prevent it.
 
-### 2.3 Cost
+The app that best suits what the client is looking for, would eventually be used for ZSL for future education trips. Said application would be used in both the Whipsnade and London Zoo.
 
-The development will be carried out on PC so no license will be required whatsoever. Unity Pro, the game engine that the app will be developed on, costs £125 a month per person, to the subtotal of £625 and taking into consideration of the amount of time needed to develop the game, which was two weeks brings the cost to £1,250
+### 2.4 Cost
 
-### 2.4 Resources
-### 2.4.1 IDE/Developer Environment
+The development will be carried out on PC so no license will be required whatsoever. Unity Pro, the game engine that the app will be developed on, costs £125 a month per person, to the subtotal of £625 and taking into consideration of the amount of time needed to develop the game, which was two weeks brings the cost to £1,250.
 
-### 2.5 Quality
+### 2.5 Aims and Objectives
+#### 2.5.1 Aims
+
+* Create a method of interaction for the user of the app.
+* Have a way to provide accurate information to the user of the application of the effects of Greenhouse gases.
+* Implement a system that will allow for pledges to be made.
+
+#### 2.5.2 Objectives
+* Create a Drag and drop game that allows the users to create greenhouse chains. These will mainly be images that goes in a certain pattern according to the information from the comic parts of the app. This will be developed within three weeks, mainly to help test and develop this function fully. If all four drag and drop sections work accordingly, allowing for complete greenhouse chains, then it will be successfully implemented. This should be ready on 1st November 2017.
+* Create a comic book story that will be shown as cutscenes in the game. The cutscenes will be designed in Photoshop and facts of the greenhouse gases and climate change will be researched. This will take around a week to produce, around the same time as the GUI and will give us time for additional research. Once all four sections have cutscenes and match the design requirements, they will be implement to each environment. This should be ready for the 30th October 2017.
+* Create a pledge system that will allow for the user to create pledges to help improve the environment. This will be created to encourage users to reduce doing things that could potentially harm the environment. This will take a week to produce, mainly towards the end of the development. Once all four environments have working pledge systems that the user can make, then it can be implemented into the base app. This will be delivered on the 5th November 2017.
 
 ### 2.6 Time
 #### 2.6.1 Gantt Chart
